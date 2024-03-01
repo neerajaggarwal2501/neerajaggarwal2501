@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Senior Quality Assurance Lead || Automation Testing with expertise in Selenium, API Testing, BDD Cucumber, CI/CD
 
 <!--
 **neerajaggarwal2501/neerajaggarwal2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

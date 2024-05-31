@@ -1,5 +1,6 @@
 ### Hi there 👋
-### Senior Quality Assurance Lead || Automation Testing with expertise in Selenium, API Testing, BDD Cucumber, CI/CD
+### Automation Testing Architect | Java, Selenium, Rest Assured, GitHub, Jenkins
+### I am open for work, feel free to contact me @neerajaggarwal2501@gmail.com
 
 <!--
 **neerajaggarwal2501/neerajaggarwal2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

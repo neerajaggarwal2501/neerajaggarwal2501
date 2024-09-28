@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Automation Testing Architect | Java, Selenium, Rest Assured, GitHub, Jenkins
 ### I am open for work, feel free to contact me @neerajaggarwal2501@gmail.com
 
 <!--
